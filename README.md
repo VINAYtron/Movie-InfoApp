@@ -1,4 +1,7 @@
 # React Movie Info App - ReactJS Projects
+* Display's Movie Info
+* Search Functionality 
+* Responsive Layout
 
 ### Demo - Deployed over Netlify 
 

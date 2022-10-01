@@ -4,6 +4,7 @@
 * Responsive Layout
 
 ### Demo - Deployed over Netlify 
+* https://movie-info-appvinay.netlify.app/
 
 
 
